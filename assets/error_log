@@ -1,0 +1,2 @@
+[07-Feb-2023 04:25:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/cbainruy/itsm.innovasivtech.com/itsm/assets/src.php:1) in /tmp/phpIygptq on line 1
+[16-Feb-2023 01:55:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/cbainruy/itsm.innovasivtech.com/itsm/assets/src.php:1) in /tmp/phpJFyu4K on line 1
